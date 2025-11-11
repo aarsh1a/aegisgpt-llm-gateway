@@ -29,6 +29,8 @@ built to demonstrate secure architecture principles for ai-driven systems.
 git clone https://github.com/<yourusername>/aegisgpt.git
 cd aegisgpt
 
+---
+
 ## security notes
 
 - this is a demo prototype for campus and interview purposes
